@@ -1,0 +1,6 @@
+.paragraf {
+    background-color: lightskyblue; display: block;
+    width: 100px;
+    transition: width 0.5s ease;
+}
+.gran { width: 200px; }

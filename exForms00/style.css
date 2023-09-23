@@ -1,0 +1,8 @@
+.row {
+    align-items: center;
+    display: flex;
+    padding: 0 4px;
+}
+#ok { color: green; display: none; }
+#ko { color: red;   display: none; }
+  
